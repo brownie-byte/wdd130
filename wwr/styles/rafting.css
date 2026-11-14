@@ -12,7 +12,6 @@ body {
 
 header, main, footer {
     width: 1200px;
-    height: 100%px;
     margin: 0 auto;
 }
 
@@ -75,19 +74,10 @@ p {
     padding: 8px;
 }
 
-.socialmedia {
-    display: flex;
-    gap: 15px;
-}
-
 .socialmedia a {
     text-decoration: none;
 }
 
-.socialmedia img {
-    width: 35px;
-    height: 35px;
-}
 
 :root {
     --primary-color: #055a05;
